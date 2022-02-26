@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<br>Hey, This is Anant! <br><br>
+<br>Hey, <br>This is Anant! <br>
 
 As opposed to heuristics, numbers usually make sense and if they don’t make sense there is usually a reason why. It’s just a matter of looking in the right place. It was during my internship at Larsen and Toubro where I realized my love for numbers and it moulded my professioanl journey into what it is now. I have completed my bachelor's in civil engineering from National Institute of Technology, Kurukshetra and have garnered expereince in the Digital Marketing and Healthcare domain as an analyst. I get the greatest feeling of satisfaction when I can help people see and understand the power that data and analytics can bring to them in their careers, their businesses or in their personal lives.
 
