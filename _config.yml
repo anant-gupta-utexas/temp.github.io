@@ -4,7 +4,7 @@ title                    : "Home"
 title_separator          : ""
 name                     : &name "Anant Gupta"
 description              : &description ""
-url                      : https://abhinav-sharma-6167.github.io
+url                      : https://anant-gupta-utexas.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "anant-gupta-utexas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
