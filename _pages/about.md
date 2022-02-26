@@ -8,41 +8,40 @@ redirect_from:
   - /about.html
 ---
 
-<br>Hi, I'm Abhinav. <br><br>
+<br>Hey, This is Anant! <br><br>
 
-I love science, tech, coding, and story-telling with data. My academic interests in data science include explainable AI, causal inference, bayesian methods, etc.  I'm currently pursuing my MS in business analytics at McCombs school of business at the University of Texas at Austin. <br><br>Prior to joining grad school, I have experience of 4+ years in real-world problem solving leveraging statistics, ML, or deep learning-based solutions as a Senior data scientist at ZS Associates. I've had experience in both productizing these solutions in an Algorithm-as-a-service setting as well as  deploying them. My projects have covered bits and pieces of dashboarding using d3 visualization, mixed-effects models, time series analysis and forecasting, recommender engines, predictive modeling, prescriptive analytics, transductive methods, point processes, metapath embeddings, etc. enabling me to get a wide breadth of the ML-verse.<br><br> In my spare time, I enjoy astrophysics, chess, podcasts about sociology and psychology and love conversing with great company! 
+As opposed to heuristics, numbers usually make sense and if they don’t make sense there is usually a reason why. It’s just a matter of looking in the right place. It was during my internship at Larsen and Toubro where I realized my love for numbers and it moulded my professioanl journey into what it is now. I have completed my bachelor's in civil engineering from National Institute of Technology, Kurukshetra and have garnered expereince in the Digital Marketing and Healthcare domain as an analyst. I get the greatest feeling of satisfaction when I can help people see and understand the power that data and analytics can bring to them in their careers, their businesses or in their personal lives.
+
+My thirst to learn more has brought me here at UT where I am currently pursuing my MS in Business Analytics. Here, I am working on subjects like Advanced Machine Learning, Marketing Analytics, Analytics for Unstructured Data etc. Favourite part of studying at UT has been collaborating on projects with people from varied backgrounds as it provides the much needed depth to analyze complexities from a global outlook.
+
+I am an inherehtly curious person, nothing gives me more joy than learning something new. Whenever presented with an opportunity to work on a completely new project, my reply will be "Yes I will" and the next thing you know I am rushing back to my desk to learn how to even start. I am an avid reader and books/novels have been my companions since my childhood. I also love to cook and I live my life to see people grin ear to ear after eating delicious food. I love to explore new cities and meet new people. You can find me playing some strategy/board/video game in my freetime.
+
 
 <br>
 
 ---
+# Work in Progress........
+**[Dun & Bradstreet](https://www.dnb.com/)** : _Data Scientist Capstone (Jan'22-Present)_ <br>
+  * Formulating methodologies to evaluate a firm’s collective conscientiousness for environmental, social and corporate governance factors
+  * Creating an ESG index that aggregates all good/bad events associated with a firm, in ESG space, into a utilitarian scorecard
+  * Project entails identifying named entities, name disambiguation, extracting ESG topics and associated sentiment from news/reports
 
 
+<br>
 
+---
 # Work experience
 
-**[ZS Associates](https://www.zs.com/)** : _Data Science Associate Consultant (Jul'19-Jun'21)_
-  * Weekly ML-driven Dynamic physician targeting and Portfolio optimization
-  * Patient journey feature extraction and clustering using Hawkes process and DTW 
-  * CoxPH regressions and Survival analysis to identify patient cohort with unmet needs
-  * Look-alike prediction using positive-unlabelled learning for new drug launch
+**[Spectramedix](https://www.spectramedix.com/)** : _Data Analyst (Mar'20-Jul'21)_
+  * Identified key features contributing towards patient's readmission risk by statstical modeling
+  * Leveraged healthcare claims data to calculate adjusted risk score for patient population
+  * Developed population health dashboards for specialist referral efficiency module
 
-**[ZS Associates](https://www.zs.com/)** : _Data Science Associate (Jul'17-Jun'19)_
-  * Patient services recommender engine
-  * Salesforce messaging personalization
-  * Marketing mix modeling and dashboarding
+**[Collegedunia](https://collegedunia.com/)** : _Operations Manager/Analyst (Jun'16-Dec'19)_
+  * Expanded operations in new regional markets by analyzing incoming web traffic
+  * Customized marketing lists for paid marketing campaigns
+  * Validated strategic locations for new advertisement slots
 
-<br>
-
----
-
-
-# Industry Projects
-**[Southwest Airlines](https://www.southwest.com/flying-with-southwest)** : _Data Scientist Capstone (Jan'22-Present)_ <br>
-  * Identify key drivers of airplane delays causing customer dissatisfaction and derive the 'point of no return' time-limit in terms of likelihood of customer attrition
-
-**[GE Digital](https://www.ge.com/digital)** : _Student Consultant (Jan'22-Present)_ <br>
-  * Engineer key KPIs that are good indicators of sustainability, social and environmental impact in a non-profit setting as part of Longhorn Impact Fellowship at Texas (LIFT)
- 
 
 <br>
 
