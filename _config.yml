@@ -2,11 +2,11 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : ""
-name                     : &name "Abhinav Sharma"
+name                     : &name "Anant Gupta"
 description              : &description ""
 url                      : https://abhinav-sharma-6167.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "abhinav-sharma-6167.github.io"
+repository               : "anant-gupta-utexas.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -73,14 +73,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Abhinav Sharma"
+  name             : "Anant Gupta"
   avatar           : "dp.png"
   bio              : "Passionate about solving <br> real-world problems using <br>  math, statistics and machine learning. <br> Additional interests include Astrophysics and Psychology\n\n"
   location         : "Austin, Tx"
   employer         :
   pubmed           : 
   googlescholar    :
-  email            : "abhinav.sharma@utexas.edu"
+  email            : "anant.gupta@utexas.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -89,13 +89,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "abhinav-sharma-6167"
+  github           : "anant-gupta-utexas"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         : "abhinav-utexas"
+  linkedin         : "anant-utexas"
   orcid            : 
   pinterest        :
   soundcloud       :
