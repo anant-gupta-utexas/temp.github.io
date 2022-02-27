@@ -51,12 +51,3 @@ Big ol' Galactic Hugs :)
 ---
 
 
-# Academic Coursework
-**UT Austin - Masters :**
-Below repositories entail code, report and study-notes for respective coursework offered at UT Austin, MSBA
-  * [Advanced Machine Learning](https://github.com/abhinav-sharma-6167/Advanced-ML-and-XAI)
-  * [Unstructured Data Analytics](https://github.com/abhinav-sharma-6167/Unstructured-Data-Analytics)
-  * [Optimization - I & II](https://github.com/abhinav-sharma-6167/Optimization-I)
-
-
-
